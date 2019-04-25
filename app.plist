@@ -69,7 +69,7 @@
 
 				<key>bundle-identifier</key>
 
-				<string>com.xxxx.demo</string>
+				<string>com.runxports.runxproject</string>
 
 				<key>bundle-version</key>
 
@@ -81,7 +81,7 @@
 
 				<key>title</key>
 
-				<string>XXXX App download</string>
+				<string>runxsports App download</string>
 
 			</dict>
 
